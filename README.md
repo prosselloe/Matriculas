@@ -7,7 +7,9 @@ Web: <a href="http://prosselloe.wordpress.com">prosselloe.wordpress.com</a> -
 <a href="https://es.wikipedia.org/wiki/Matr%C3%ADculas_automovil%C3%ADsticas_de_Espa%C3%B1a#Sistema_provincial_num%C3%A9ricol">Wikipedia</a> - 
 <a href="http://www.sme-matriculas.es/up1.html">Mas información</a> -
 E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> - 
-© prosselloe 2019
+© prosselloe 2019<br>
+
+En caso de ser la matrícula nº 1, la fecha es exacta. En el resto de los casos, la fecha es aproximada suponiendo una matriculación homogenia dentro del año natural y usando base 360. Puede haber diferencias superiores al año cuando el número de matriculaciones es bajo, y en especial en matriculaciones anteriores a 1926.
 
 <table>
   <tr>
