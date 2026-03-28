@@ -9,23 +9,23 @@ E-mail: prosselloe@gmail.com -
 <table>
   <tr>
     <td>Álava
-      <img src="app/src/main/res/drawable/alava.jpg"></td>
+<img src="app/src/main/res/drawable/alava.jpg"></td>
     <td>Albacete
-      <img src="app/src/main/res/drawable/albacete.jpg"></td>
+<img src="app/src/main/res/drawable/albacete.jpg"></td>
     <td>Alicante
-      <img src="app/src/main/res/drawable/alicante.jpg"></td>
+<img src="app/src/main/res/drawable/alicante.jpg"></td>
     <td>Almería
-      <img src="app/src/main/res/drawable/almeria.jpg"></td>
+<img src="app/src/main/res/drawable/almeria.jpg"></td>
   </tr>
   <tr>
     <td>Asturias
-      <img src="app/src/main/res/drawable/asturias.gif"></td>
+<img src="app/src/main/res/drawable/asturias.gif"></td>
     <td>Avila
-      <img src="app/src/main/res/drawable/avila.jpg"></td>
+<img src="app/src/main/res/drawable/avila.jpg"></td>
     <td>Badajoz
-      <img src="app/src/main/res/drawable/badajoz.jpg"></td>
+<img src="app/src/main/res/drawable/badajoz.jpg"></td>
     <td>Baleares
-      <img src="app/src/main/res/drawable/baleares.gif"></td>
+<img src="app/src/main/res/drawable/baleares.gif"></td>
   </tr>
   <tr>
     <td>Barcelona
@@ -58,179 +58,86 @@ E-mail: prosselloe@gmail.com -
 <img src="app/src/main/res/drawable/gerona.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Granada
+<img src="app/src/main/res/drawable/granada.jpg"></td>
+    <td>Guadalajara
+<img src="app/src/main/res/drawable/guadalajara.jpg"></td>
+    <td>Guipúzcoa
+<img src="app/src/main/res/drawable/guipuzcoa.jpg"></td>
+    <td>Huelva
+<img src="app/src/main/res/drawable/huelva.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Huesca
+<img src="app/src/main/res/drawable/huesca.jpg"></td>
+    <td>Jaén
+<img src="app/src/main/res/drawable/jaen.jpg"></td>
+    <td>León
+<img src="app/src/main/res/drawable/leon.jpg"></td>
+    <td>Lérida
+<img src="app/src/main/res/drawable/lerida.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Lugo
+<img src="app/src/main/res/drawable/lugo.jpg"></td>
+    <td>Madrid
+<img src="app/src/main/res/drawable/madrid.gif"></td>
+    <td>Málaga
+<img src="app/src/main/res/drawable/malaga.jpg"></td>
+    <td>Melilla
+<img src="app/src/main/res/drawable/_melilla.gif"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Murcia
+<img src="app/src/main/res/drawable/murcia.gif"></td>
+    <td>Navarra
+<img src="app/src/main/res/drawable/navarra.gif"></td>
+    <td>Orense
+<img src="app/src/main/res/drawable/orense.jpg"></td>
+    <td>Palencia
+<img src="app/src/main/res/drawable/palencia.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Palmas, Las
+<img src="app/src/main/res/drawable/las_palmas.jpg"></td>
+    <td>Pontevedra
+<img src="app/src/main/res/drawable/pontevedra.jpg"></td>
+    <td>Rioja, La
+<img src="app/src/main/res/drawable/la_rioja.gif"></td>
+    <td>Salamanca
+<img src="app/src/main/res/drawable/salamanca.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Tenerife
+<img src="app/src/main/res/drawable/tenerife.jpg"></td>
+    <td>Segovia
+<img src="app/src/main/res/drawable/segovia.jpg"></td>
+    <td>Sevilla
+<img src="app/src/main/res/drawable/sevilla.jpg"></td>
+    <td>Soria
+<img src="app/src/main/res/drawable/soria.jpg"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Tarragona
+<img src="app/src/main/res/drawable/tarragona.jpg"></td>
+    <td>Teruel
+<img src="app/src/main/res/drawable/teruel.jpg"></td>
+    <td>Toledo
+<img src="app/src/main/res/drawable/toledo.jpg"></td>
+    <td>Valencia
+<img src="app/src/main/res/drawable/valencia.gif"></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Valladolid
+<img src="app/src/main/res/drawable/valladolid.jpg"></td>
+    <td>Vizcaya
+<img src="app/src/main/res/drawable/vizcaya.jpg"></td>
+    <td>Zamora
+<img src="app/src/main/res/drawable/zamora.jpg"></td>
+    <td>Zaragoza
+<img src="app/src/main/res/drawable/zaragoza.jpg"></td>
   </tr>  
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Granada
-<img src="app/src/main/res/drawable/granada.jpg">
-
-Guadalajara
-<img src="app/src/main/res/drawable/guadalajara.jpg">
-
-Guipúzcoa
-<img src="app/src/main/res/drawable/guipuzcoa.jpg">
-
-Huelva
-<img src="app/src/main/res/drawable/huelva.jpg">
-
-Huesca
-<img src="app/src/main/res/drawable/huesca.jpg">
-
-Jaén
-<img src="app/src/main/res/drawable/jaen.jpg">
-
-León
-<img src="app/src/main/res/drawable/leon.jpg">
-
-Lérida
-<img src="app/src/main/res/drawable/lerida.jpg">
-
-Lugo
-<img src="app/src/main/res/drawable/lugo.jpg">
-
-Madrid
-<img src="app/src/main/res/drawable/madrid.gif">
-
-Málaga
-<img src="app/src/main/res/drawable/malaga.jpg">
-
-Melilla
-<img src="app/src/main/res/drawable/_melilla.gif">
-
-Murcia
-<img src="app/src/main/res/drawable/murcia.gif">
-
-Navarra
-<img src="app/src/main/res/drawable/navarra.gif">
-
-Orense
-<img src="app/src/main/res/drawable/orense.jpg">
-
-Palencia
-<img src="app/src/main/res/drawable/palencia.jpg">
-
-Palmas, Las
-<img src="app/src/main/res/drawable/las_palmas.jpg">
-
-Pontevedra
-<img src="app/src/main/res/drawable/pontevedra.jpg">
-
-Rioja, La
-<img src="app/src/main/res/drawable/la_rioja.gif">
-
-Salamanca
-<img src="app/src/main/res/drawable/salamanca.jpg">
-
-Tenerife
-<img src="app/src/main/res/drawable/tenerife.jpg">
-
-Segovia
-<img src="app/src/main/res/drawable/segovia.jpg">
-
-Sevilla
-<img src="app/src/main/res/drawable/sevilla.jpg">
-
-Soria
-<img src="app/src/main/res/drawable/soria.jpg">
-
-Tarragona
-<img src="app/src/main/res/drawable/tarragona.jpg">
-
-Teruel
-<img src="app/src/main/res/drawable/teruel.jpg">
-
-Toledo
-<img src="app/src/main/res/drawable/toledo.jpg">
-
-Valencia
-<img src="app/src/main/res/drawable/valencia.gif">
-
-Valladolid
-<img src="app/src/main/res/drawable/valladolid.jpg">
-
-Vizcaya
-<img src="app/src/main/res/drawable/vizcaya.jpg">
-
-Zamora
-<img src="app/src/main/res/drawable/zamora.jpg">
-
-Zaragoza
-<img src="app/src/main/res/drawable/zaragoza.jpg">
-
 
         (01) Las siglas provinciales son oficiales por Real Orden de 24/05/1907.
              El Reglamento de vehículos de 17/09/1900 ya obligaba a crear un registro provincial,
