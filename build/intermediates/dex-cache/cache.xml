@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\Proyectos\Actividad8\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\Android\Proyectos\Actividad8\app\build\intermediates\pre-dexed\debug\classes-dc48724ea58827d8e3fcae0c5bac5770b7518432.jar" />
+    </item>
+    <item
+        jar="D:\Android\Proyectos\Actividad8\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\Android\Proyectos\Actividad8\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-150baf9bab614f9324f3d0648919fd49ca012dd6.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Android\Proyectos\Actividad8\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-87f5a75e1de9f212162c85b163eaa9811670bbdf.jar" />
+    </item>
+
+</items>
