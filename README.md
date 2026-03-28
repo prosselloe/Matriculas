@@ -4,10 +4,10 @@ Sistema provincial numérico usado entre octubre de 1900 y octubre de 1971. Comp
 
 Numéricas de España v1.0 - 
 Web: <a href="http://prosselloe.wordpress.com">prosselloe.wordpress.com</a> - 
-E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> - 
-© prosselloe 2019 - 
 <a href="https://es.wikipedia.org/wiki/Matr%C3%ADculas_automovil%C3%ADsticas_de_Espa%C3%B1a#Sistema_provincial_num%C3%A9ricol">Wikipedia</a> - 
-<a href="http://www.sme-matriculas.es/up1.html">Mas información</a>
+<a href="http://www.sme-matriculas.es/up1.html">Mas información</a> -
+E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> - 
+© prosselloe 2019
 
 <table>
   <tr>
