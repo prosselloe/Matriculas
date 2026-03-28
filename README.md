@@ -4,6 +4,8 @@ Web: prosselloe.wordpress.com
 E-mail: prosselloe@gmail.com
 © prosselloe 2019
 
+<img src="app/src/main/res/drawable/alava.jpg">
+
         (01) Las siglas provinciales son oficiales por Real Orden de 24/05/1907.
              El Reglamento de vehículos de 17/09/1900 ya obligaba a crear un registro provincial,
              aunque no determinó un criterio fijo y uniforme; por lo que la numeración e identificación
