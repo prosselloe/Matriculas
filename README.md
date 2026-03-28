@@ -22,50 +22,118 @@ E-mail: prosselloe@gmail.com -
       <img src="app/src/main/res/drawable/asturias.gif"></td>
     <td>Avila
       <img src="app/src/main/res/drawable/avila.jpg"></td>
+    <td>Badajoz
+      <img src="app/src/main/res/drawable/badajoz.jpg"></td>
+    <td>Baleares
+      <img src="app/src/main/res/drawable/baleares.gif"></td>
   </tr>
+  <tr>
+    <td>Barcelona
+<img src="app/src/main/res/drawable/barcelona.jpg"></td>
+    <td>Burgos
+<img src="app/src/main/res/drawable/burgos.jpg"></td>
+    <td>Cáceres
+<img src="app/src/main/res/drawable/caceres.jpg"></td>
+    <td>Cadiz
+<img src="app/src/main/res/drawable/cadiz.jpg"></td>
+  </tr>
+  <tr>
+    <td>Cantabria
+<img src="app/src/main/res/drawable/cantabria.gif"></td>
+    <td>Castellón
+<img src="app/src/main/res/drawable/castellon.jpg"></td>
+    <td>Ceuta
+<img src="app/src/main/res/drawable/_ceuta.gif"></td>
+    <td>Ciudad Real
+<img src="app/src/main/res/drawable/ciudad_real.jpg"></td>
+  </tr>
+  <tr>
+    <td>Córdoba
+<img src="app/src/main/res/drawable/cordoba.jpg"></td>
+    <td>Coruña, La
+<img src="app/src/main/res/drawable/la_coruna.jpg"></td>
+    <td>Cuenca
+<img src="app/src/main/res/drawable/cuenca.jpg"></td>
+    <td>Gerona
+<img src="app/src/main/res/drawable/gerona.jpg"></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
 </table>
 
-Badajoz
-<img src="app/src/main/res/drawable/badajoz.jpg">
 
-Baleares
-<img src="app/src/main/res/drawable/baleares.gif">
 
-Barcelona
-<img src="app/src/main/res/drawable/barcelona.jpg">
 
-Burgos
-<img src="app/src/main/res/drawable/burgos.jpg">
 
-Cáceres
-<img src="app/src/main/res/drawable/caceres.jpg">
 
-Cadiz
-<img src="app/src/main/res/drawable/cadiz.jpg">
 
-Cantabria
-<img src="app/src/main/res/drawable/cantabria.gif">
 
-Castellón
-<img src="app/src/main/res/drawable/castellon.jpg">
 
-Ceuta
-<img src="app/src/main/res/drawable/_ceuta.gif">
 
-Ciudad Real
-<img src="app/src/main/res/drawable/ciudad_real.jpg">
 
-Córdoba
-<img src="app/src/main/res/drawable/cordoba.jpg">
 
-Coruña, La
-<img src="app/src/main/res/drawable/la_coruna.jpg">
 
-Cuenca
-<img src="app/src/main/res/drawable/cuenca.jpg">
 
-Gerona
-<img src="app/src/main/res/drawable/gerona.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Granada
 <img src="app/src/main/res/drawable/granada.jpg">
