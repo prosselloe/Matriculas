@@ -1,28 +1,29 @@
 <img src="app/src/main/res/drawable/_provincias.jpg">
 
-Matriculas Provinciales #
-Numéricas de España v1.0
-Web: prosselloe.wordpress.com
-E-mail: prosselloe@gmail.com
+Matriculas Provinciales # - 
+Numéricas de España v1.0 - 
+Web: prosselloe.wordpress.com - 
+E-mail: prosselloe@gmail.com -
 © prosselloe 2019
 
-Álava
-<img src="app/src/main/res/drawable/alava.jpg">
-
-Albacete
-<img src="app/src/main/res/drawable/albacete.jpg">
-
-Alicante
-<img src="app/src/main/res/drawable/alicante.jpg">
-
-Almería
-<img src="app/src/main/res/drawable/almeria.jpg">
-
-Asturias
-<img src="app/src/main/res/drawable/asturias.gif">
-
-Avila
-<img src="app/src/main/res/drawable/avila.jpg">
+<table>
+  <tr>
+    <td>Álava
+<img src="app/src/main/res/drawable/alava.jpg"></td>
+    <td>Albacete
+<img src="app/src/main/res/drawable/albacete.jpg"></td>
+    <td>Alicante
+<img src="app/src/main/res/drawable/alicante.jpg"></td>
+  </tr>
+  <tr>
+    <td>Almería
+<img src="app/src/main/res/drawable/almeria.jpg"></td>
+    <td>Asturias
+<img src="app/src/main/res/drawable/asturias.gif"></td>
+    <td>Avila
+<img src="app/src/main/res/drawable/avila.jpg"></td>
+  </tr>
+</table>
 
 Badajoz
 <img src="app/src/main/res/drawable/badajoz.jpg">
