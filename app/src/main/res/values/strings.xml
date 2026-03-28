@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Matrículas Provinciales #</string>
+
+    <string name="mensaje">Sistema provincial numérico usado entre octubre de 1900 y octubre de 1971. Compuesto
+        por una, dos o tres letras representando la provincia y hasta seis números sin ceros a la izquierda*.</string>
+    <string name="nota">En caso de ser la matricula nº 1, la fecha es exacta. En el resto de los casos, la fecha es
+        aproximada suponiendo una matriculación homogénea dentro del año natural y usando base 360. Puede haber diferencias
+        superiores al año cuando el número de matriculacilones es bajo, y en especial, en matriculaciones anteriores a 1926.</string>
+
+    <string name="action_mapa">Mapa de Provincias</string>
+    <string name="action_acercade">Acerca de</string>
+
+</resources>
