@@ -1,6 +1,7 @@
 # Matriculas Provinciales \#
 Sistema provincial numérico usado entre octubre de 1900 y octubre de 1971. Compuesto por una, dos o tres letras representando la provincia y hasta seis números sin ceros a la izquierda*
-<img src="app/src/main/res/drawable/_provincias.jpg">
+
+<img src="app/src/main/res/drawable/Matrculas Provinciales #.png">
 
 Numéricas de España v1.0 - 
 Web: <a href="http://prosselloe.wordpress.com">prosselloe.wordpress.com</a> - 
@@ -9,7 +10,7 @@ Web: <a href="http://prosselloe.wordpress.com">prosselloe.wordpress.com</a> -
 E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> - 
 © prosselloe 2019<br>
 
-*En caso de ser la matrícula nº 1, la fecha es exacta. En el resto de los casos, la fecha es aproximada suponiendo una matriculación homogenia dentro del año natural y usando base 360. Puede haber diferencias superiores al año cuando el número de matriculaciones es bajo, y en especial en matriculaciones anteriores a 1926.
+*En caso de ser la matrícula nº 1, la fecha es exacta. En el resto de los casos, la fecha es aproximada suponiendo una matriculación homogenea dentro del año natural y usando base 360. Puede haber diferencias superiores al año cuando el número de matriculaciones es bajo, y en especial en matriculaciones anteriores a 1926.
 
 <table>
   <tr>
@@ -143,6 +144,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <img src="app/src/main/res/drawable/zaragoza.jpg"></td>
   </tr>  
 </table>
+<img src="app/src/main/res/drawable/_provincias.jpg">
 
         (01) Las siglas provinciales son oficiales por Real Orden de 24/05/1907.
              El Reglamento de vehículos de 17/09/1900 ya obligaba a crear un registro provincial,
