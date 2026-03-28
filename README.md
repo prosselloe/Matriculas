@@ -10,7 +10,7 @@ Web: <a href="http://prosselloe.wordpress.com">prosselloe.wordpress.com</a> -
 E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> - 
 © prosselloe 2019<br>
 
-*En caso de ser la matrícula nº 1, la fecha es exacta. En el resto de los casos, la fecha es aproximada suponiendo una matriculación homogenea dentro del año natural y usando base 360. Puede haber diferencias superiores al año cuando el número de matriculaciones es bajo, y en especial en matriculaciones anteriores a 1926.
+*En caso de ser la matrícula nº 1, la fecha es exacta. En el resto de los casos, la fecha es aproximada suponiendo una matriculación homogenea dentro del año natural y usando base 360. Puede haber diferencias superiores al año cuando el número de matriculaciones es bajo, y en especial, en matriculaciones anteriores a 1926.
 
 <table>
   <tr>
