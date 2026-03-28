@@ -17,7 +17,7 @@ Almería
 <img src="app/src/main/res/drawable/almeria.jpg">
 
 Asturias
-<img src="app/src/main/res/drawable/asturias.png">
+<img src="app/src/main/res/drawable/asturias.gif">
 
 Avila
 <img src="app/src/main/res/drawable/avila.jpg">
