@@ -167,4 +167,5 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
         (11) Gerona/Girona cambia su contraseña de GE a GI, por RD de 29/05/1992.
         (12) Baleares/Illes Balears cambia su contraseña de PM a IB, por RD de 18/07/1997.
         (13) Orense/Ourense cambia su contraseña de OR a OU, por RD de 31/07/1998.
-        (14) La Rioja aprueba el cambio de LO a LR para que entrara en vigor el 18/09/2000 pero con la anulación de las siglas provinciales, esto nunca llegó a suceder.
+        (14) La Rioja aprueba el cambio de LO a LR para que entrara en vigor el 18/09/2000 pero con la 
+             anulación de las siglas provinciales, esto nunca llegó a suceder.
