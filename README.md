@@ -1,3 +1,5 @@
+<img src="app/src/main/res/drawable/_provincias.jpg">
+
 Matriculas Provinciales #
 Numéricas de España v1.0
 Web: prosselloe.wordpress.com
