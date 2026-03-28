@@ -47,7 +47,7 @@ Castellón
 <img src="app/src/main/res/drawable/castellon.jpg">
 
 Ceuta
-<img src="app/src/main/res/drawable/_ceuta.jpg">
+<img src="app/src/main/res/drawable/_ceuta.gif">
 
 Ciudad Real
 <img src="app/src/main/res/drawable/ciudad_real.jpg">
@@ -92,19 +92,19 @@ Lugo
 <img src="app/src/main/res/drawable/lugo.jpg">
 
 Madrid
-<img src="app/src/main/res/drawable/madrid.jpg">
+<img src="app/src/main/res/drawable/madrid.gif">
 
 Málaga
 <img src="app/src/main/res/drawable/malaga.jpg">
 
 Melilla
-<img src="app/src/main/res/drawable/_melilla.jpg">
+<img src="app/src/main/res/drawable/_melilla.gif">
 
 Murcia
-<img src="app/src/main/res/drawable/murcia.jpg">
+<img src="app/src/main/res/drawable/murcia.gif">
 
 Navarra
-<img src="app/src/main/res/drawable/navarra.jpg">
+<img src="app/src/main/res/drawable/navarra.gif">
 
 Orense
 <img src="app/src/main/res/drawable/orense.jpg">
@@ -119,7 +119,7 @@ Pontevedra
 <img src="app/src/main/res/drawable/pontevedra.jpg">
 
 Rioja, La
-<img src="app/src/main/res/drawable/la_rioja.jpg">
+<img src="app/src/main/res/drawable/la_rioja.gif">
 
 Salamanca
 <img src="app/src/main/res/drawable/salamanca.jpg">
@@ -146,7 +146,7 @@ Toledo
 <img src="app/src/main/res/drawable/toledo.jpg">
 
 Valencia
-<img src="app/src/main/res/drawable/valencia.jpg">
+<img src="app/src/main/res/drawable/valencia.gif">
 
 Valladolid
 <img src="app/src/main/res/drawable/valladolid.jpg">
