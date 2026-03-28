@@ -26,7 +26,7 @@ Badajoz
 <img src="app/src/main/res/drawable/badajoz.jpg">
 
 Baleares
-<img src="app/src/main/res/drawable/baleares.jpg">
+<img src="app/src/main/res/drawable/baleares.gif">
 
 Barcelona
 <img src="app/src/main/res/drawable/barcelona.jpg">
@@ -41,7 +41,7 @@ Cadiz
 <img src="app/src/main/res/drawable/cadiz.jpg">
 
 Cantabria
-<img src="app/src/main/res/drawable/cantabria.jpg">
+<img src="app/src/main/res/drawable/cantabria.gif">
 
 Castellón
 <img src="app/src/main/res/drawable/castellon.jpg">
