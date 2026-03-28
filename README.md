@@ -9,19 +9,19 @@ E-mail: prosselloe@gmail.com -
 <table>
   <tr>
     <td>Álava
-<img src="app/src/main/res/drawable/alava.jpg"></td>
+      <img src="app/src/main/res/drawable/alava.jpg"></td>
     <td>Albacete
-<img src="app/src/main/res/drawable/albacete.jpg"></td>
+      <img src="app/src/main/res/drawable/albacete.jpg"></td>
     <td>Alicante
-<img src="app/src/main/res/drawable/alicante.jpg"></td>
+      <img src="app/src/main/res/drawable/alicante.jpg"></td>
     <td>Almería
-<img src="app/src/main/res/drawable/almeria.jpg"></td>
-    <td>Asturias
+      <img src="app/src/main/res/drawable/almeria.jpg"></td>
   </tr>
   <tr>
-<img src="app/src/main/res/drawable/asturias.gif"></td>
+    <td>Asturias
+      <img src="app/src/main/res/drawable/asturias.gif"></td>
     <td>Avila
-<img src="app/src/main/res/drawable/avila.jpg"></td>
+      <img src="app/src/main/res/drawable/avila.jpg"></td>
   </tr>
 </table>
 
