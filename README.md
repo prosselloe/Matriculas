@@ -1,7 +1,7 @@
 # Matriculas Provinciales \#
 Sistema provincial numérico usado entre octubre de 1900 y octubre de 1971. Compuesto por una, dos o tres letras representando la provincia y hasta seis números sin ceros a la izquierda*
 
-<img src="app/src/main/res/drawable/Matrculas_Provinciales_#.png">
+<img src="app/src/main/res/drawable/Matriculas_Provinciales.png">
 
 Numéricas de España v1.0 - 
 Web: <a href="http://prosselloe.wordpress.com">prosselloe.wordpress.com</a> - 
