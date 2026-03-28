@@ -147,8 +147,8 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 
         (01) Las siglas provinciales son oficiales por Real Orden de 24/05/1907.
              El Reglamento de vehículos de 17/09/1900 ya obligaba a crear un registro provincial,
-             aunque no determinó un criterio fijo y uniforme; por lo que la numeración e identificación
-             de los vehículos no estuvo normalizada hasta 1907.
+             aunque no determinó un criterio fijo y uniforme; por lo que la numeración e 
+             identificación de los vehículos no estuvo normalizada hasta 1907.
         (02) Navarra cambia su contraseña de PA a NA, por RD de 23/07/1918.
         (03) Cáceres cambia su contraseña de CAC a CC, por RD de 23/07/1918.
         (04) Baleares cambia su contraseña de PM a BA, por RD de 23/07/1918,
@@ -163,9 +163,8 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
         (10) En 1927, la provincia de Canarias (TE, desde 1907) se separa en dos provincias
              por RD 21/09/1927: Las Palmas de Gran Canaria y Santa Cruz de Tenerife.
              Sus contraseñas van a ser GC y TF, respectivamente, por RD de 16/06/1926.
-
         (11) Gerona/Girona cambia su contraseña de GE a GI, por RD de 29/05/1992.
         (12) Baleares/Illes Balears cambia su contraseña de PM a IB, por RD de 18/07/1997.
         (13) Orense/Ourense cambia su contraseña de OR a OU, por RD de 31/07/1998.
-        (14) La Rioja aprueba el cambio de LO a LR para que entrara en vigor el 18/09/2000 pero con la 
-             anulación de las siglas provinciales, esto nunca llegó a suceder.
+        (14) La Rioja aprueba el cambio de LO a LR para que entrara en vigor el 18/09/2000 pero  
+             con la anulación de las siglas provinciales, esto nunca llegó a suceder.
