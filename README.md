@@ -14,11 +14,11 @@ E-mail: prosselloe@gmail.com -
 <img src="app/src/main/res/drawable/albacete.jpg"></td>
     <td>Alicante
 <img src="app/src/main/res/drawable/alicante.jpg"></td>
-  </tr>
-  <tr>
     <td>Almería
 <img src="app/src/main/res/drawable/almeria.jpg"></td>
     <td>Asturias
+  </tr>
+  <tr>
 <img src="app/src/main/res/drawable/asturias.gif"></td>
     <td>Avila
 <img src="app/src/main/res/drawable/avila.jpg"></td>
