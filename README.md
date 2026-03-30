@@ -148,9 +148,9 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <table width="876">
 <tbody>
 <tr>
-<td width="23">1</td>
+<td width="23">01</td>
 <td width="93">Alava</td>
-<td width="23">9</td>
+<td width="23">09</td>
 <td width="93">Burgos</td>
 <td width="23">17</td>
 <td width="93">Gerona</td>
@@ -164,7 +164,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <td width="93">Zamora</td>
 </tr>
 <tr>
-<td width="23">2</td>
+<td width="23">02</td>
 <td width="93">Albacete</td>
 <td width="23">10</td>
 <td width="93">Caceres</td>
@@ -180,7 +180,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <td width="93">Zaragoza</td>
 </tr>
 <tr>
-<td width="23">3</td>
+<td width="23">03</td>
 <td width="93">Alicante</td>
 <td width="23">11</td>
 <td width="93">Cadiz</td>
@@ -196,7 +196,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <td width="93">Sahara</td>
 </tr>
 <tr>
-<td width="23">4</td>
+<td width="23">04</td>
 <td width="93">Almeria</td>
 <td width="23">12</td>
 <td width="93">Castellon</td>
@@ -212,7 +212,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <td width="93">Ifni</td>
 </tr>
 <tr>
-<td width="23">5</td>
+<td width="23">05</td>
 <td width="93">Avila</td>
 <td width="23">13</td>
 <td width="93">Ciudad Real</td>
@@ -228,7 +228,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <td width="93">Fernando Poo</td>
 </tr>
 <tr>
-<td width="23">6</td>
+<td width="23">06</td>
 <td width="93">Badajoz</td>
 <td width="23">14</td>
 <td width="93">Cordoba</td>
@@ -244,7 +244,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <td width="93">Río Muni</td>
 </tr>
 <tr>
-<td width="23">7</td>
+<td width="23">07</td>
 <td width="93">Baleares</td>
 <td width="23">15</td>
 <td width="93">Coruña (La)</td>
@@ -260,7 +260,7 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <td width="93">Ceuta</td>
 </tr>
 <tr>
-<td width="23">8</td>
+<td width="23">08</td>
 <td width="93">Barcelona</td>
 <td width="23">16</td>
 <td width="93">Cuenca</td>
