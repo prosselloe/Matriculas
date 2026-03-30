@@ -148,131 +148,131 @@ E-mail: <a href="mailto:prosselloe@gmail.com">prosselloe@gmail.com</a> -
 <table width="876">
 <tbody>
 <tr>
-<td width="23">01</td>
+<td width="23">01: VI</td>
 <td width="93">Alava</td>
-<td width="23">09</td>
+<td width="23">09: BU</td>
 <td width="93">Burgos</td>
-<td width="23">17</td>
+<td width="23">17: GE</td>
 <td width="93">Gerona</td>
-<td width="23">25</td>
+<td width="23">25: L</td>
 <td width="93">Lerida</td>
-<td width="23">33</td>
+<td width="23">33: O</td>
 <td width="157">Oviedo</td>
-<td width="23">41</td>
+<td width="23">41: SE</td>
 <td width="93">Sevilla</td>
-<td width="23">49</td>
+<td width="23">49: ZA</td>
 <td width="93">Zamora</td>
 </tr>
 <tr>
-<td width="23">02</td>
+<td width="23">02: ALB / AB</td>
 <td width="93">Albacete</td>
-<td width="23">10</td>
+<td width="23">10: CAC / CC</td>
 <td width="93">Caceres</td>
-<td width="23">18</td>
+<td width="23">18: GR</td>
 <td width="93">Granada</td>
-<td width="23">26</td>
+<td width="23">26: LO</td>
 <td width="93">Logroño</td>
-<td width="23">34</td>
+<td width="23">34: P</td>
 <td width="157">Palencia</td>
-<td width="23">42</td>
+<td width="23">42: SO</td>
 <td width="93">Soria</td>
-<td width="23">50</td>
+<td width="23">50: Z</td>
 <td width="93">Zaragoza</td>
 </tr>
 <tr>
-<td width="23">03</td>
+<td width="23">03:  A</td>
 <td width="93">Alicante</td>
-<td width="23">11</td>
+<td width="23">11: CA</td>
 <td width="93">Cadiz</td>
-<td width="23">19</td>
+<td width="23">19: GU</td>
 <td width="93">Guadalajara</td>
-<td width="23">27</td>
+<td width="23">27: LU</td>
 <td width="93">Lugo</td>
-<td width="23">35</td>
+<td width="23">35: TE / GC</td>
 <td width="157">Palmas (Las)</td>
-<td width="23">43</td>
+<td width="23">43: T</td>
 <td width="93">Tarragona</td>
-<td width="23">51</td>
+<td width="23">51: ME / SHA / SH</td>
 <td width="93">Sahara</td>
 </tr>
 <tr>
-<td width="23">04</td>
+<td width="23">04: AL</td>
 <td width="93">Almeria</td>
-<td width="23">12</td>
+<td width="23">12: CAS / CS</td>
 <td width="93">Castellon</td>
-<td width="23">20</td>
+<td width="23">20: SS</td>
 <td width="93">Guipuzcoa</td>
-<td width="23">28</td>
+<td width="23">28: M</td>
 <td width="93">Madrid</td>
-<td width="23">36</td>
+<td width="23">36: PO</td>
 <td width="157">Pontevedra</td>
-<td width="23">44</td>
+<td width="23">44: TER / TE</td>
 <td width="93">Teruel</td>
-<td width="23">52</td>
+<td width="23">52: ME / I / IF</td>
 <td width="93">Ifni</td>
 </tr>
 <tr>
-<td width="23">05</td>
+<td width="23">05: AV</td>
 <td width="93">Avila</td>
-<td width="23">13</td>
+<td width="23">13: CR</td>
 <td width="93">Ciudad Real</td>
-<td width="23">21</td>
+<td width="23">21: H</td>
 <td width="93">Huelva</td>
-<td width="23">29</td>
+<td width="23">29: MA</td>
 <td width="93">Malaga</td>
-<td width="23">37</td>
+<td width="23">37: SA</td>
 <td width="157">Salamanca</td>
-<td width="23">45</td>
+<td width="23">45: TO</td>
 <td width="93">Toledo</td>
-<td width="23">53</td>
+<td width="23">53: TEG / FP</td>
 <td width="93">Fernando Poo</td>
 </tr>
 <tr>
-<td width="23">06</td>
+<td width="23">06: BA</td>
 <td width="93">Badajoz</td>
-<td width="23">14</td>
+<td width="23">14: CO</td>
 <td width="93">Cordoba</td>
-<td width="23">22</td>
+<td width="23">22: HU</td>
 <td width="93">Huesca</td>
-<td width="23">30</td>
+<td width="23">30: MU</td>
 <td width="93">Murcia</td>
-<td width="23">38</td>
+<td width="23">38: TE / TF</td>
 <td width="157">Santa Cruz de Tenerife</td>
-<td width="23">46</td>
+<td width="23">46: V</td>
 <td width="93">Valencia</td>
-<td width="23">54</td>
+<td width="23">54: TEG / RM</td>
 <td width="93">Río Muni</td>
 </tr>
 <tr>
-<td width="23">07</td>
+<td width="23">07: BA / PM / IB</td>
 <td width="93">Baleares</td>
-<td width="23">15</td>
+<td width="23">15: C</td>
 <td width="93">Coruña (La)</td>
-<td width="23">23</td>
+<td width="23">23: J</td>
 <td width="93">Jaen</td>
-<td width="23">31</td>
+<td width="23">31: PA - NA</td>
 <td width="93">Navarra</td>
-<td width="23">39</td>
+<td width="23">39: S</td>
 <td width="157">Santander</td>
-<td width="23">47</td>
+<td width="23">47: VA</td>
 <td width="93">Valladolid</td>
-<td width="23">55</td>
+<td width="23">55: CE</td>
 <td width="93">Ceuta</td>
 </tr>
 <tr>
-<td width="23">08</td>
+<td width="23">08: B</td>
 <td width="93">Barcelona</td>
-<td width="23">16</td>
+<td width="23">16: CU</td>
 <td width="93">Cuenca</td>
-<td width="23">24</td>
+<td width="23">24: LE</td>
 <td width="93">Leon</td>
-<td width="23">32</td>
+<td width="23">32: OR</td>
 <td width="93">Orense</td>
-<td width="23">40</td>
+<td width="23">40: SEG - SG</td>
 <td width="157">Segovia</td>
-<td width="23">48</td>
+<td width="23">48: BI</td>
 <td width="93">Vizcaya</td>
-<td width="23">56</td>
+<td width="23">56: ML</td>
 <td width="93">Melilla</td>
 </tr>
 </tbody>
